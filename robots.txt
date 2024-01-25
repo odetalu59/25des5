@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://gwtcreate.com/superjp/sitemap.xml
+Sitemap: http://gwtcreate.com/gilajp/sitemap.xml
+Sitemap: http://gwtcreate.com/gojekpot/sitemap.xml
+Sitemap: http://gwtcreate.com/winstrike69/sitemap.xml
+Sitemap: http://gwtcreate.com/slotgacor/sitemap.xml
+Sitemap: http://gwtcreate.com/slotzeus/sitemap.xml
+Sitemap: http://gwtcreate.com/kaptenjackpot/sitemap.xml
+Sitemap: http://gwtcreate.com/boosterjp/sitemap.xml
+Sitemap: http://gwtcreate.com/kerajaanslot/sitemap.xml
+Sitemap: http://gwtcreate.com/pakong86/sitemap.xml
+Sitemap: http://gwtcreate.com/viral88/sitemap.xml
+Sitemap: http://gwtcreate.com/clan4d/sitemap.xml
+Sitemap: http://gwtcreate.com/dinamit4d/sitemap.xml
+Sitemap: http://gwtcreate.com/elang212/sitemap.xml
+Sitemap: http://gwtcreate.com/gori77/sitemap.xml
+Sitemap: http://gwtcreate.com/viral4d/sitemap.xml
+Sitemap: http://gwtcreate.com/playground88/sitemap.xml
